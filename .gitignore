@@ -1,0 +1,16 @@
+
+\.ipynb_checkpoints/
+
+\.vscode/
+
+*.pyc
+
+data/
+
+plt\.jpg
+
+*.pt
+
+*.hdf5
+
+*.csv
